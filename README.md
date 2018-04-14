@@ -6,3 +6,7 @@ Following are the features of this software:
 3) Process sales and purchase transactions
 4) Bill generation 
 5) Quick insert, and manage items, sales, bills using shortcut keys.
+
+
+Database.sql is included inside the project. 
+
