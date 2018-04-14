@@ -1,7 +1,7 @@
 ## Author Uzair Kamdar
 
 Following are the features of this software:
-1)  Add items by cateogories 
+1)  Add items by categories 
 2) Add categories 
 3) Process sales and purchase transsactions
 4) Bill generation 
